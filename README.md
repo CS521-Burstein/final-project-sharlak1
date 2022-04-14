@@ -12,3 +12,4 @@ We started by reading the dataset and storing it in a dataframe using pandas. We
 Also, we built visualizations by forming KPI's and generated useful insights. 
 
 Further, we would use some machine learning algorithms such as k-means clustering, linear regression for prediction etc.
+We saw there are 1460 properties wherein we had sale price without any outliers and NaN values from which NAmes had the highest sale price (either we can say most populated area or most expensive area)
