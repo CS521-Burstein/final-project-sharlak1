@@ -13,3 +13,18 @@ Also, we built visualizations by forming KPI's and generated useful insights.
 
 Further, we would use some machine learning algorithms such as k-means clustering, linear regression for prediction etc.
 We saw there are 1460 properties wherein we had sale price without any outliers and NaN values from which NAmes had the highest sale price (either we can say most populated area or most expensive area)
+
+April 27 Deliverable-
+We started by extensive data exploration to find out the most useful and least useful columns (variables) in our dataset. We spent major time on preprocessing our data which is later used to build our machine learning models. 
+
+Built various visualizations to find out outliers and to determine the levels in categorical variables such as sale condition column had two six levels from which partial had the highest median sales price whereas others showed similar median sale prices. This helped us to convert categorical variables into encoded variables (numeric) which are necessary for running any ML Algorithm. 
+
+We performed label encoding for categorical variables to convert the variables into binary. 
+
+Dealt with numeric variables using correlation technique. We kept the top performing variables that correlated strongly or moderately with Sales Price. 
+
+Finally, we started with Data partitioning followed by performing K-means clustering algorithm which gave us optimum numbers of groups to be segmented in our dataset on the basis of similarities between attributes in columns. 
+
+For the last deliverable, we are going to build another ML algorithm (random forest classifier to derive the feature importance in data. Also, we will build linear regression model for predictions followed by studying the summary statistics (R-squared, RMSE, Accuracy) and we will test our model on test (validation) set. We will make multiple regression models with improvements in predictions and accuracy. 
+
+
