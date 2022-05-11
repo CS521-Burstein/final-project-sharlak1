@@ -9,7 +9,7 @@ We started by loading the dataset into our environment using pandas and storing 
 Steps to reproduce results:
 
 1) Run the download_dataset.ipynb script
-2) Run every cell in Final_project_script.ipynb file to reproduce results
+2) Run every cell in project_analysis.ipynb file to reproduce results
 
 
 Furthermore, we are going to do exploratory analysis and make visualizations to build understanding of our data and importance of different variables. Also, we will study relationship between variables (correlation) in the second deliverable
