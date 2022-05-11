@@ -33,4 +33,6 @@ Finally, we started with Data partitioning followed by performing K-means cluste
 
 For the last deliverable, we are going to build another ML algorithm (random forest classifier to derive the feature importance in data. Also, we will build linear regression model for predictions followed by studying the summary statistics (R-squared, RMSE, Accuracy) and we will test our model on test (validation) set. We will make multiple regression models with improvements in predictions and accuracy. 
 
-We ran 4 MLR models by selecting different features baded on random forest classification feature results and by creating new features. We chose model 2 as the most reliable one with a R squared of 0.80 and RMSE of 35436.58
+We ran 4 MLR models by selecting different features based on random forest classification feature results and by creating new features. We chose model 2 as the most reliable one with a R squared of 0.80 and RMSE of 35436.58. We also made new features such as age (age from year built and year of renovation), total basement score, total garage score, total exterior score. 
+
+
